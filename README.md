@@ -2,7 +2,7 @@
 This repository contains the implementation of a Distributed System designed for the course exam. The project integrates hardware components, a server, and a web interface to manage participants and communication within the system.
 
 Project Description
-The project centers around a distributed environment where multiple hardware clients interact with a central server. Clients include totems and participating teams, which use NFC readers and WiFi modules to communicate with the server. The server handles requests, processes data, and maintains transaction workflows, while a web interface displays results to end users
+The project centers around a distributed environment where multiple hardware clients interact with a central server. Clients include totems and participating teams, which use NFC readers and WiFi modules to communicate with the server. The server handles requests, processes data, and maintains transaction workflows, while a web interface displays results to end users.
 
 Clients are initialized using Arduino-compatible .ino files. 
 These files configure the hardware components, including WiFi connections and NFC readers.
