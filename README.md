@@ -19,7 +19,7 @@ The main server files include:
 - TransactionManager.py to oversee transaction workflows.
 - serverCommit.py ensures synchronization between clients and the server.
 
-A simple yet effective .html file (leaderboard.html) serves as the front-end interface. It allows users to view results, rankings, and other critical data.
+A simple yet effective .html file (leaderboard.html) serves as the front-end interface. It allows users to view results, and rankings.
 
 How to Set Up and Run
 
