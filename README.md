@@ -15,9 +15,8 @@ The server is implemented in Python (Flask).
 It manages client requests, processes transactions, and synchronizes data. 
 The main server files include:
 - LockCommit.py for locking and committing data to ensure consistency.
-- Player.py and Team.py for managing player and team data.
 - TransactionManager.py to oversee transaction workflows.
-- serverCommit.py ensures synchronization between clients and the server.
+- serverCommit.py the server script to be runned.
 
 A simple yet effective .html file (leaderboard.html) serves as the front-end interface. It allows users to view results, and rankings.
 
@@ -29,7 +28,7 @@ Ensure NFC readers and WiFi credentials are correctly configured.
 
 Server Deployment:
 Install Python 3.x on your machine.
-Run the required server scripts.
+Run the required server script.
 
 Web Interface:
 Open leaderboard.html in your browser to view rankings and results.
